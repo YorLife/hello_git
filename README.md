@@ -1,2 +1,2 @@
-# hello_git
+# conflict
 # this is merge
