@@ -1,2 +1,1 @@
-# conflict
-# this is merge
+# this is master
